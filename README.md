@@ -68,7 +68,6 @@ pnpm test
 ## Contributors
 
 - **Michael Volerich** - Product & Engineering
-- **Mars** - Contributor
 
 ---
 
